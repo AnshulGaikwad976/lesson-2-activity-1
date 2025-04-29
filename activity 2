@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+
+
+        <b>welcome to codingal.. Lets get started with coding</b><br>
+        <strong>welcome to codingal.. Lets get started with coding</strong><br>
+        <i>welcome to codingal.. Lets get started with coding</i><br>
+        <em>welcome to codingal.. Lets get started with coding</em><br>
+        <mark>welcome to codingal.. Lets get started with coding</mark><br>
+        <del>welcome to codingal.. Lets get started with coding</del><br>
+        <small>welcome to codingal.. Lets get started with coding</small><br>
+        welcome to <sup>codingal..</sup> Lets get started with <sub> coding</sub><br>
+
+    </body>
+</html>
